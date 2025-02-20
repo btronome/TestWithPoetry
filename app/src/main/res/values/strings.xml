@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">TestWithPoetry</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="birthday">Birthday</string>
+    <string name="register">Register</string>
+    <string name="welcome">Welcome %s</string>
+    <string name="profile">Profile</string>
+    <string name="added_favorite_author">Author added to favorites</string>
+    <string name="add_favorite">Add to favorites</string>
+    <string name="remove_favorite">Remove from favorites</string>
+    <string name="select_date">Select date</string>
+    <string name="date_format">MM/DD/YYYY</string>
+    <string name="confirm">Confirm</string>
+    <string name="close">Close</string>
 </resources>
