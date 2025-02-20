@@ -1,4 +1,4 @@
-package com.example.testwithpoetry
+package com.example.testwithpoetry.di
 
 import dagger.Module
 import dagger.Provides
